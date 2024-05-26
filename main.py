@@ -3,7 +3,7 @@ import requests
 import re
 
 # Telegram bot token (replace with your own token)
-TOKEN = '478308710:AAF4_W-9ETeOkini4FK3KVWQZehIyMCQvZQ'
+TOKEN = ''
 
 # Create an instance of the TeleBot class
 bot = telebot.TeleBot(TOKEN)
